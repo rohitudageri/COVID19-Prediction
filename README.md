@@ -26,6 +26,6 @@ Known contact with an individual confirmed to have COVID-19 (true/false). Corona
 
 # Skills + Algorithms used
 - Programming Languages - Python
-- Libraries & Frameworks - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Streamlit, Flask
+- Libraries & Frameworks - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
 - Data Science - Data Collection, Data Wrangling, Data Visualization, Exploratory Data Analysis, Feature Engineering, Feature
 Selection, Machine Learning(Classification), Model Evaluation.
